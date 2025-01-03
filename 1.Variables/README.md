@@ -17,7 +17,7 @@ In this session, I covered:
 - **The Math Module**: Exploring useful math functions like `sqrt` and `ceil`.  
 - **Binary Representation**: Using Python’s `format()` to convert numbers to binary.  
 
-Check out the file: [day1_python_basics.py](./day1_python_basics.py)  
+Check out the file: [Variables.ipynb](./Variables.ipynb)  
 
 ---
 
