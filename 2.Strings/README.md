@@ -35,6 +35,7 @@ The script demonstrates various string operations and prints the results to the 
 4. **Formatted Strings**:
    - F-strings (introduced in Python 3.6) provide a clean way to embed variables within strings.
 
+Check out the file: [Strings.ipynb](./Strings.ipynb)  
 ## Code Example
 
 ```python
