@@ -12,15 +12,6 @@ This repository contains a Python script that demonstrates various operations an
 - **Substring Operations**: Check if a substring exists and find its position within a string.
 - **String Splitting**: Split a string into a list based on a delimiter.
 
-## Usage
-
-Clone this repository and run the script to explore various string operations. Make sure you have Python 3.x installed on your machine.
-
-### Running the Script
-
-```bash
-python strings_operations.py
-```
 
 ### Expected Output
 The script demonstrates various string operations and prints the results to the console. Each section is accompanied by comments explaining the code's purpose.
