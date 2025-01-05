@@ -17,6 +17,13 @@ Welcome to the **Python Basics** repository! This repository is dedicated to doc
   - String validation and membership
   - Splitting and joining strings
 
+- **Day 3: Python Lists and Operations**
+  - List basics and initialization
+  - Indexing and slicing lists
+  - Adding, removing, and modifying elements
+  - Combining and sorting lists
+  - Common list methods and dynamic updates
+
 - **Future Additions**
   - Control structures (if-else, loops)
   - Functions and modules
