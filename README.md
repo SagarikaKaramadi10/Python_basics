@@ -11,6 +11,12 @@ Welcome to the **Python Basics** repository! This repository is dedicated to doc
   - Arithmetic operations
   - Math module usage
 
+- **Day 2: Strings and String Manipulations**
+  - String basics and properties
+  - String operations and methods
+  - String validation and membership
+  - Splitting and joining strings
+
 - **Future Additions**
   - Control structures (if-else, loops)
   - Functions and modules
@@ -45,7 +51,7 @@ This repository is primarily for my personal learning journey, but contributions
 ---
 
 ## About Me
-I am a computer science student specializing in AI, documenting my learning journey as I delve deeper into Python and its applications. This repository is a part of my commitment to becoming proficient in programming and building a career in AI.
+I am a computer science student specializing in AI. I document my learning journey as I delve deeper into Python and its applications. This repository is part of my commitment to becoming proficient in programming and building a career in AI.
 
 ---
 
