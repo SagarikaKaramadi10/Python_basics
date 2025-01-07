@@ -23,7 +23,8 @@ This repository covers the following key aspects of conditional statements:
   - Using the ternary operator for concise conditions.
   - Testing membership within lists.
   - Classifying states by country.
-Check out the file: [If-condition.ipynb](./If-condition.ipynb)  
+
+    Check out the file: [If-condition.ipynb](./If-condition.ipynb)  
 ---
 
 ## Example Code
