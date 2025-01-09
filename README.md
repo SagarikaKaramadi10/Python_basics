@@ -27,8 +27,14 @@ Welcome to the **Python Basics** repository! This repository is dedicated to doc
   - If-Else Statements
   - Nested If Statements 
 
+- **Day 5: Loops in Python**
+  - For loops and iteration
+  - Using zip and enumerate
+  - Break and continue statements
+  - Range function in loops
+  - While loops and examples
+
 - **Future Additions**
-  - Control structures (loops)
   - Functions and modules
   - Object-Oriented Programming (OOP)
   - File handling
