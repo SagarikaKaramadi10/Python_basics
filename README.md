@@ -23,9 +23,12 @@ Welcome to the **Python Basics** repository! This repository is dedicated to doc
   - Adding, removing, and modifying elements
   - Combining and sorting lists
   - Common list methods and dynamic updates
+- **Day 4: Control Structures in Python**
+  - If-Else Statements
+  - Nested If Statements 
 
 - **Future Additions**
-  - Control structures (if-else, loops)
+  - Control structures (loops)
   - Functions and modules
   - Object-Oriented Programming (OOP)
   - File handling
