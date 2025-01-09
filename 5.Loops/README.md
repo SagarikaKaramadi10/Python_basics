@@ -44,7 +44,7 @@ The script showcases multiple loop operations and prints results to the console.
 - **Total Expense Calculation**: Comparing traditional and loop-based implementations.  
 - **Threshold Analysis**: Checking sales values against a defined threshold.  
 - **Filtering Values**: Skipping specific elements (e.g., even numbers) during iteration.  
-Check out the file: [For-condition.ipynb](./For-condition.ipynb)  ---
+Check out the file: [For-condition.ipynb](./For-condition.ipynb) 
 
 
 ## Code Example  
